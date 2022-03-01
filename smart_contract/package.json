@@ -2,5 +2,9 @@
   "name": "smart_contract",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "react-icons": "^4.3.1"
+  }
 }
